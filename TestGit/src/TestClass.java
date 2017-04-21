@@ -12,6 +12,9 @@ public class TestClass {
 	public void testFunction3(){
 		System.out.println("hello....");
 	}
+	public void testFunction4(){
+		System.out.println("hello....");
+	}
 public static void main(String[] args) {
 	System.out.println("nihao......");
 }
